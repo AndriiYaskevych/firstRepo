@@ -1,2 +1,2 @@
 #tutaj cos jest
-#a moze nie
+#a moze i nie
